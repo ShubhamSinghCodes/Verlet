@@ -1,4 +1,5 @@
 # Verlet - Physics Engine with Verlet Integration  
+**Note**: Use optimised.py  
 Up/down arrow keys to zoom in/out  
 Click, drag, release to add new objects  
 Hold space to slow everything down (if things go crazy fast)  
